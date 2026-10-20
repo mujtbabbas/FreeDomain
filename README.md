@@ -12,6 +12,20 @@ Register a domain, connect your preferred DNS provider through custom nameserver
 
 > This repository contains the public information and learning resources for DigitalPlat FreeDomain. The application source code is maintained separately in [DigitalPlatDev/Domain-OSS](https://github.com/DigitalPlatDev/Domain-OSS).
 
+## About This Standalone Edition
+
+- **Main repository:** [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
+- **Based on version:** upstream commit `9c7c54110705760267b07b6e6a6d406d1172a1bf` (snapshotted 2026-10-20; upstream HEAD dated 2026-08-12)
+- **This edition:** v1.1.0 (v1.0.0 = clean baseline of the upstream version above)
+- **What was done:** Converted from a fork into a standalone repository (fresh history, baseline commit), then enhanced in place by Syed Mujtaba Abbas.
+- **Enhancements in this edition (v1.1.0):**
+  - This About section, with full upstream credit and version provenance
+  - `ENHANCEMENTS.md` — per-version changelog of everything changed in this edition
+  - `.github/dependabot.yml` — weekly GitHub Actions dependency updates
+  - `.markdownlint.json` + `.github/workflows/markdown-check.yml` — markdown linting automation for contributions
+  - `.editorconfig` — standard editor settings (UTF-8, LF, 2-space indent)
+- **Credit & licence:** All original work belongs to DigitalPlatDev and the upstream contributors. Licence is preserved unchanged — see `LICENSE` (AGPL-3.0). This edition adds the enhancements listed above only.
+
 ### ✔️ Why Free Domains?
 
 At **DigitalPlat FreeDomain**, we’re on a mission to make the web more accessible. We believe that the cost of a domain shouldn’t hold anyone back from creating a website. Our goal is to make the internet an open space where everyone can have their own place online, regardless of budget.
