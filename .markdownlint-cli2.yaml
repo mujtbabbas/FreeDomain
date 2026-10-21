@@ -1,0 +1,8 @@
+ignores:
+  - "*/**/*.md"
+  - ".github/**/*.md"
+  - "CODE_OF_CONDUCT.md"
+  - "CONTRIBUTING.md"
+  - "LEARN.md"
+  - "README.md"
+  - "SECURITY.md"
